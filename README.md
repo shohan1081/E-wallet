@@ -1,1 +1,1 @@
-# E-wallet
+This E-Wallet is a Python-based application built with Tkinter for managing financial transactions. Users can securely deposit, transfer, withdraw funds, and view transaction history, offering a simple and user-friendly interface for digital payments.
